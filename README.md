@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Georgi
+- 👋 Hi, I’m Georgi. This is my portfolio GitHub account.
 - 👀 I’m interested in full-stack application development.
 - 🌱 My projects are based on Spring Boot and React.js
 - 📫 Feel free to reach out to me!
